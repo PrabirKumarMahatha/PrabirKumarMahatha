@@ -2,10 +2,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prabir Kumar Mahatha
 ============================================================================================================================================
 
-i am a devops engineer
+I am a devops engineer
 ----------------------
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-A student of 3rd yr of compute rscience and engineering
+A student of 3rd yr of computer science and engineering at src="https://iem.edu.in/"
 
 * 🌍  I'm based in kolkata
 * ✉️  You can contact me at [mahathaprabir@gmail.com](mailto:mahathaprabir@gmail.com)
