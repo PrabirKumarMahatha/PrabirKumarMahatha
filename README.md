@@ -4,7 +4,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 I am a devops engineer
 ----------------------
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="500" src="https://greymatter.com/wp-content/uploads/2021/12/ezgif.com-optimize.gif">
 A student of 3rd yr of computer science and engineering
 
 * 🌍  I'm based in kolkata
