@@ -8,7 +8,7 @@ I am a aspiring devops engineer
 A student of 3rd yr of computer science and engineering
 
 * 🌍  I'm based in kolkata
-* ✉️  You can contact me at [mahathaprabir@gmail.com](mailto:mahathaprabir@gmail.com)
+* 💌  connect me at [Email](mahathaprabir@gmail.com) 
 * 🧠  I'm learning a new tool of devops
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  i am very much curious about new topics
@@ -79,3 +79,5 @@ A student of 3rd yr of computer science and engineering
 
 
 ![snake svg](https://github.com/PrabirKumarMahatha/PrabirKumarMahatha/blob/output/github-contribution-grid-snake.svg)
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/prabirkumarmahatha/count.svg)
