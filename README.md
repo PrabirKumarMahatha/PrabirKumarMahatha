@@ -64,11 +64,7 @@ A student of 3rd yr of computer science and engineering
 
 <p align="left"> <a href="https://www.github.com/PrabirKumarMahatha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/prabir-kumar-mahatha-6a0025248/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PrabirKumarMahatha"><img src="https://github-readme-stats.vercel.app/api?username=PrabirKumarMahatha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PrabirKumarMahatha's GitHub stats" /></a>
 
 <b>Top Repositories</b>
 
