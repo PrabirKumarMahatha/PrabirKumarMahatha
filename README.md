@@ -2,7 +2,7 @@
 Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Prabir
 ============================================================================================================================================
 
-I am a aspiring devops engineer
+I am a aspiring DevOps engineer
 ----------------------
 <img align="right" alt="coding" width="500" src="https://greymatter.com/wp-content/uploads/2021/12/ezgif.com-optimize.gif">
 A student of 3rd yr of computer science and engineering
@@ -79,5 +79,10 @@ A student of 3rd yr of computer science and engineering
 
 
 ![snake svg](https://github.com/PrabirKumarMahatha/PrabirKumarMahatha/blob/output/github-contribution-grid-snake.svg)
-#### Thanks for visiting :heart:
+
+
+<div align="center">
+   
+### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/prabirkumarmahatha/count.svg)
+</div>
